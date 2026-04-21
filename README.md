@@ -1,1 +1,2 @@
 # Handling-Categorical-and-Numerical-Features
+Encoding, standardization and Normalization): Machine Learning models speak the language of numbers, not text. We cover: Encoding: Converting categorical data (like "Red" or "Blue") into numbers. Normalization & Standardization: Scaling numerical data so that features with large ranges (like Salary) don't overpower features with small ranges (like Age). This ensures the model treats all data points fairly.
